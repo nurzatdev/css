@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+.container {
+    width: 1140px;
+    margin: 0 auto;
+} 
+/* HERO */
+#hero {
+    padding: 60px;
+
+}
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    img {
+        width: 408px;
+height: 720px;
+
+    }
+
+}
+.hero-text {
+
+    h4 {
+font-size: 24px;
+font-weight: 300;
+    }
+    h1 {
+font-size: 150px;
+font-weight: 300;
+}
+p {
+font-size: 32px;
+font-weight: 300;
+line-height: 49.6px;
+
+}
+
+}
+.hero-btn {
+    display: flex;
+    align-items: center;
+    border: none;
+    border-radius: 4px;
+}
+/* HERO */
